@@ -15,22 +15,21 @@ class introduction
 public:
     std::string_view name() const
     {
-        return ...
+        return Elizaveta
     }
 
     std::string_view surename() const
     {
-        return ...
+        return Bogdanova
     }
 
     std::string fullname() const
     {
-        return ...
+        return Elizaveta Bogdanova
     }
 
 private:
 };
-//}
-// Лизка Богданова автор шедевра
+
 
 #endif // __INTRODUCTION_HPP__
