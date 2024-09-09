@@ -15,7 +15,7 @@ class introduction
 public:
     std::string_view name() const
     {
-        return Elizaveta
+        return Lisa
     }
 
     std::string_view surename() const
@@ -25,7 +25,7 @@ public:
 
     std::string fullname() const
     {
-        return Elizaveta Bogdanova
+        return Lisa Bogdanova
     }
 
 private:
